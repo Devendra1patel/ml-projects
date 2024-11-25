@@ -1,0 +1,6 @@
+pipline :
+- traning pipline
+- testing pipline
+
+## sys library ##
+The sys module in Python provides access to system-specific parameters and functions. It allows you to interact with the Python runtime environment and perform various operations related to the interpreter and the operating system
